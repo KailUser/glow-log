@@ -1,0 +1,21 @@
+[project]
+name = "Glow Log"
+version = "0.0.1"
+authors = [
+  { name="Syirezz Cheese", email="syirezz@icloud.com" },
+]
+description = "A small copy of logging"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: GNU GENERAL PUBLIC LICENSE V3",
+    "Operating System :: OS Independent",
+]
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/KailUser/glow-log"
+Issues = "https://github.com/KailUser/glow-log/issues"
